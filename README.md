@@ -7,8 +7,8 @@
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   Jack |   TBD  |
-|Tuesday |  Nick|   TBD |
+|Monday |   Nick M. |   TBD  |
+|Tuesday |  Nick C.|   TBD |
 |Thursday   |  Michael | TBD |
 |Friday   |  Michael | TBD |
 
