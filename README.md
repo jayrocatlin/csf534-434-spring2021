@@ -12,7 +12,7 @@
 |Thursday   |  Michael | 11:00a - 12:00p |
 |Friday   |  Michael | 1:00p - 2:00p |
 
-## Course Overview
+### Course Overview
 
 This course provides an overview of network and systems security. It provides the underlying theory of computer security and further introduces hands-on skills and techniques that are essential to effectively secure the networks and systems of large and small organizations.
 
@@ -23,21 +23,21 @@ Participate in risk mitigation activities
 Operate with an awareness of applicable policies, laws and regulations
 This course is required for the graduate certificate in Cyber Security or the Professional Science Masters in Cyber Security. It provides a foundation for much of the material in both of these programs and is therefore prerequisite for most of the other courses in these programs. The course can also be used as an elective in the CSC undergraduate major or in the Applications category of courses offered for the CSC master’s degree or PhD.
 
-## Ethics
+### Ethics
 
 Tools and programs that can be used to break or “hack” into systems should only be used in an ethical, professional and legal manner. This means that they should only be used to test the current strength of security networks that are your own or those that you have explicit written consent from the owner of the systems, so that proper improvements can be made. The knowledge presented here is not intended for use in any illegal capacity and is meant to aid learning and development of Cyber Security and Information Technology practices and concepts only.
 
-## Textbook, Readings, and Labs
+### Textbook, Readings, and Labs
 
 **Text book will be made available for free** through O'Riley Safari. See Assignment 00 for instructions to get access to the textbook for free.
 
 *CompTIA Security+ Certification All-in-One Exam Guide, Fifth Edition (Exam SY0-501)*
 Author: Dr. Wm. Arthur Conklin, Dr. Gregory White ISBN-13: 978-1260019322, ISBN-10: 1260019322
 
-## Software
+### Software
 No purchases required, special purpose software provided through Sakai or download.
 
-## Course Work
+### Course Work
 For this course, you should expect to complete between 15 - 20 hours worth of coursework each week.
 
 Generally, assignment weeks will begin on a Friday and end on the Sunday of the following weekend. In general, assignments will be due each Sunday (at approximately midnight). Each week there will be two lectures that will align with the readings, assignments, labs, and quizzes for that week. Here is a brief summary of the assignments we will have each week:
@@ -47,26 +47,26 @@ Video Lectures and Interactives - video lectures based on the readings. 
 Lab Assignments - one or two labs are given each week.
 Online Discussions - the two principle discussion forums for this course are the Course & Lab Help Forum and the Helpful Online Resources forum.
 
-## Readings
+### Readings
 Reading assignments should be completed as early in the week as possible. Reading the assigned pages in the textbook gives you an idea of the concepts that are the focus for the week. Other assignments during the week help to explain the concepts in greater depth and give you experience applying them to actual problems. Therefore, since the readings are fundamental to activities for the week, they should be completed first. 
 
 For this course to be successful, you must engage in the material by doing the readings ahead of time, and then complete the labs and participate in online discussions. You are expected to actively participate by asking questions and joining in our discussions. Note that a portion of your grade is attributed to class participation.
 
 In addition to the textbook readings, there may be other readings or videos that outline or expand on key concepts for the week. Reading or reviewing these can help you to understand and organize the material better.
 
-## Reading Retention Quizzes
+### Reading Retention Quizzes
 As a review of material from the textbook and video, each reading assignment has an accompanying reading retention quiz. These quizzes are to help re-emphasize important concepts from the reading and prepare you for the mid-term and final exams.
 
 * You are not permitted to get help from other students when completing quizzes.
 * Late quizzes will be penalized the same as late homework assignments.
 * At the end of the term, the two lowest quiz scores will be ignored.
 
-## Weekly Topic Online Discussions
+### Weekly Topic Online Discussions
 The help forum in this course can be a valuable resource. As a computer science or information security professional, there are many times that discussion forums can give you information or insight to quickly solve problems you have run into (and ways to avoid problems in the future). 
 
 When you are stuck on an assignment or consistently run into the same problem, first check the forum to see if someone else had the same problem. If not, post your comment or problem description there. Use descriptive titles for your posts so that other students know what the post is about. Titles such as “I have a problem” are not acceptable. If you have solved a problem that you see someone else struggling with, feel free to post advice on how to work through the problem! This is part of the community building aspect of this course.
 
-## Exams
+### Exams
 There will be one exam given in this course ~ final exam worth 15% of your grade. Students are to submit their own work on each of the exams. If you need help or clarification on a problem or exercise, you are to make a post on the discussion forum or contact the TA or instructor.
 
 * You are not permitted to get help from other students when completing exams.
@@ -75,11 +75,11 @@ There will be one exam given in this course ~ final exam worth 15% of your gra
 
 * The material in this course is cumulative, and so the final exam will be cumulative.
 
-## Lab Projects and Worksheets
+### Lab Projects and Worksheets
 
 There are practical labs that must be completed. Each lab is designed to take about an hour or more and you are encouraged to walk-through each lab at least twice so that you become comfortable with the commands, tools and applications used in the lab.
 
-## Discussion Board
+### Discussion Board
 
 The help forum in this course can be a valuable resource. As a computer science or information security professional, there are many times that discussion forums can give you information or insight to quickly solve problems you have run into (and ways to avoid problems in the future). Any question related to troubleshooting or not understanding homework assignments should be directed to the discussion board. When you are stuck on an assignment or consistently run into the same problem, first check the forum to see if someone else had the same problem. If not, post your comment or problem description there. Use descriptive titles for your posts so that other students know what the post is about. **Titles such as “I have a problem” are not acceptable. Please use the assignment or lab number followed up by the question number in the title of your post.** 
 
@@ -91,7 +91,7 @@ You should contact the teaching staff via email with questions related to gradin
 
 If you would like to schedule an online or in-person appointment to meet with teaching staff you may do so by contacting them via email. These appointments should be made with a minimum of 24 hrs notice. The teaching staff will not offer help on past-due assignments.
 
-## Grading
+### Grading
 Material in any course is not learned or mastered simply by reading the material or watching videos. The student needs to spend the time doing the readings, discussing the issues with fellow students, and doing activities based on the course concepts.
 
 The final grade will be based on individual grades received on lab assignments, exercises assigned from the textbook, participation in the discussion forums and exams. Point values for assignments are based on the level of effort and knowledge required to complete each. The approximate weighting for each area is as follows:
@@ -120,25 +120,25 @@ Assignments that are submitted:
 
 Feedback on quizzes, exams, and exercises will either be available on the course website. You have one week from the posting of a grade to submit any concern about that grade, in email to staff. Concerns expressed after one week from posting will not be considered.
 
-## Academic Integrity
+### Academic Integrity
 
 Assignments are to be the result of your individual efforts, unless you are told otherwise. It is easy to copy material on the computer; such copying constitutes plagiarism and will earn a 0 on the assignment. In some cases, a charge of plagiarism may result in a failure of the course. Additionally, the charge of academic dishonesty will go on your record in the Office of Student Life. If you need help with an assignment, or are not sure if something is acceptable, discuss it with a staff member.
 
-## Anti-Bias Syllabus Statement
+### Anti-Bias Syllabus Statement
 
 We respect the rights and dignity of each individual and group. We reject prejudice and intolerance, and we work to understand differences. We believe that equity and inclusion are critical components for campus community members to thrive. If you are a target or a witness of a bias incident, you are encouraged to submit a report to the URI Bias Response Team at www.uri.edu/brt. There you will also find people and resources to help.
 
 
-## Disability Services for Students Statement
+### Disability Services for Students Statement
 
 Your access in this course is important. Please send me your Disability Services for Students (DSS) accommodation letter early in the semester so that we have adequate time to discuss and arrange your approved academic accommodations. If you have not yet established services through DSS, please contact them to engage in a confidential conversation about the process for requesting reasonable accommodations in the classroom. DSS can be reached by calling: 401-874-2098, visiting: web.uri.edu/disability, or emailing: dss@etal.uri.edu. We are available to meet with students enrolled in Kingston as well as Providence courses. <br>
 
-## Academic Enhancement Center (for undergraduate courses)
+### Academic Enhancement Center (for undergraduate courses)
 
 Located in Roosevelt Hall, the AEC offers free face-to-face and web-based services to undergraduate students seeking academic support. Peer tutoring is available for STEM-related courses by appointment online and in-person. The Writing Center offers peer tutoring focused on supporting undergraduate writers at any stage of a writing assignment. The UCS160 course and academic skills consultations offer students strategies and activities aimed at improving their studying and test-taking skills. Complete details about each of these programs, up-to-date schedules, contact information and self-service study resources are all available on the AEC website, uri.edu/aec.
 
 
-## Tentative Course Outline:
+### Tentative Course Outline:
 
 > The weekly schedule is subject to change per instructor discretion. For the sake of brevity, not all of the topics that we will cover this semester are listed below.
 
