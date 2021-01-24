@@ -7,10 +7,10 @@
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   Jack |   10:00a – 11:00a  |
-|Tuesday |  Nick|   10:00a – 11:00a |
-|Thursday   |  Michael | 11:00a - 12:00p |
-|Friday   |  Michael | 1:00p - 2:00p |
+|Monday |   Jack |   TBD  |
+|Tuesday |  Nick|   TBD |
+|Thursday   |  Michael | TBD |
+|Friday   |  Michael | TBD |
 
 ### Course Overview
 
