@@ -3,7 +3,7 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu)
 
-**Teaching Assistants:** Nick Carchedi, Jack Edgar (URI.CSF534@gmail.com) <br>
+**Teaching Assistants:** Nick Carchedi, Nick Mccaffery (URI.CSF534@gmail.com) <br>
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
