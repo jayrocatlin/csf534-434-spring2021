@@ -4,7 +4,7 @@
 
 | Week | Topics |  Deliverables | Due Dates |
 | --- | --- | --- | --- |
-| Week 0 | Introduction |A00, Q00 | None |
+| Week 0 | Introduction | A00 | None |
 
 ## Lecture Reading
 
