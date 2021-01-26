@@ -3,14 +3,14 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu)
 
-**Teaching Assistants:** Nick Carchedi, Jack Edgar (URI.CSF534@gmail.com) <br>
+**Teaching Assistants:** Nick Carchedi, Nick Mccaffery (URI.CSF534@gmail.com) <br>
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   Jack |   10:00a – 11:00a  |
-|Tuesday |  Nick|   10:00a – 11:00a |
-|Thursday   |  Michael | 11:00a - 12:00p |
-|Friday   |  Michael | 1:00p - 2:00p |
+|Monday |   Nick M. |   TBD  |
+|Tuesday |  Nick C.|   TBD |
+|Thursday   |  Michael | TBD |
+|Friday   |  Michael | TBD |
 
 ### Course Overview
 
@@ -124,12 +124,12 @@ Feedback on quizzes, exams, and exercises will either be available on the course
 
 Assignments are to be the result of your individual efforts, unless you are told otherwise. It is easy to copy material on the computer; such copying constitutes plagiarism and will earn a 0 on the assignment. In some cases, a charge of plagiarism may result in a failure of the course. Additionally, the charge of academic dishonesty will go on your record in the Office of Student Life. If you need help with an assignment, or are not sure if something is acceptable, discuss it with a staff member.
 
-### Anti-Bias Syllabus Statement
+### Anti-Bias
 
 We respect the rights and dignity of each individual and group. We reject prejudice and intolerance, and we work to understand differences. We believe that equity and inclusion are critical components for campus community members to thrive. If you are a target or a witness of a bias incident, you are encouraged to submit a report to the URI Bias Response Team at www.uri.edu/brt. There you will also find people and resources to help.
 
 
-### Disability Services for Students Statement
+### Disability Services for Students
 
 Your access in this course is important. Please send me your Disability Services for Students (DSS) accommodation letter early in the semester so that we have adequate time to discuss and arrange your approved academic accommodations. If you have not yet established services through DSS, please contact them to engage in a confidential conversation about the process for requesting reasonable accommodations in the classroom. DSS can be reached by calling: 401-874-2098, visiting: web.uri.edu/disability, or emailing: dss@etal.uri.edu. We are available to meet with students enrolled in Kingston as well as Providence courses. <br>
 
