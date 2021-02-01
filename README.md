@@ -7,10 +7,10 @@
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   Nick M. |   TBD  |
+|Monday |   Michael |   11:00a - 12:00p |
 |Tuesday |  Nick C.|   TBD |
-|Thursday   |  Michael | TBD |
-|Friday   |  Michael | TBD |
+|Wednesday |  Nick M.|   2:00p - 3:00p |
+|Thursday   |  Michael | 11:00a - 12:00p |
 
 ### Course Overview
 
