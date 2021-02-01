@@ -8,7 +8,7 @@
 | Day | Staff Member |  Time |
 | --- | --- | --- |
 |Monday |   Michael |   11:00a - 12:00p |
-|Tuesday |  Nick C.|   TBD |
+|Tuesday |  Nick C.|   12:00 - 1:00p |
 |Wednesday |  Nick M.|   2:00p - 3:00p |
 |Thursday   |  Michael | 11:00a - 12:00p |
 
