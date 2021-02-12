@@ -1,7 +1,7 @@
 # Lab 03: Sharpening Our Keyboard Skills
 
 
-Create a copy of this google document [lastname_A03](https://docs.google.com/document/d/1klf3qsUxuvVOQ4oHkivNzW17vseHIzwvrEIch6sGgcI/edit?usp=sharing) (File > Make a Copy) to record all of your assignment answers in.
+Create a copy of this google document [lastname_lab03](https://docs.google.com/document/d/1klf3qsUxuvVOQ4oHkivNzW17vseHIzwvrEIch6sGgcI/edit?usp=sharing) (File > Make a Copy) to record all of your assignment answers in.
 
 The table of contents for this lab is found below.
 
