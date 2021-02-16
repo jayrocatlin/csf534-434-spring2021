@@ -89,7 +89,7 @@ Gain SSH access to the target in the lab, perform some enumeration of the server
 
 ## Part 4 - VirusTotal
 
-The below language is simply pulled from www.immersivelabs.com for your convenience. Please, read the information below and complete the [PowerShell Empire](https://immersivelabs.online/labs/powershell-empire-episode-1/) lab on immersivelabs.
+The below language is simply pulled from www.immersivelabs.com for your convenience. Please, read the information below and complete the [PowerShell Empire](https://immersivelabs.online/labs/virustotal) lab on immersivelabs.
 
 ### Quick Summary
 
