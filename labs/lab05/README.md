@@ -1,7 +1,7 @@
 # Lab 05: Network Intrusion Detection with Snort
 
 
-Create a copy of this google document [lastname_lab05]() (File > Make a Copy) to record all of your assignment answers in.
+Create a copy of this google document [lastname_lab05](https://docs.google.com/document/d/1pmDnY9wkNguwR062DSTdXShs8qbOUzIoaWOGePOpK4U/edit?usp=sharing) (File > Make a Copy) to record all of your assignment answers in.
 
 The table of contents for this lab is found below.
 
@@ -242,4 +242,4 @@ These modifiers can also be combined and used alongside standard modifiers like 
 
 ## Part 4. Submission
 
-Convert your answer document in to a **.PDF** and upload a single `lastname_lab4.pdf` answer document containing all of your answers to the assignment questions to Sakai through the attachment uploads option.
+Convert your answer document in to a **.PDF** and upload a single `lastname_lab5.pdf` answer document containing all of your answers to the assignment questions to Sakai through the attachment uploads option.
