@@ -4,7 +4,7 @@ Create a copy of this google document [lastname_lab06](https://docs.google.com/d
 
 The table of contents for this lab is found below.
 
-Part 1. UDP (User Datagram Protocol) <br>
+Part 1. ARP <br>
 Part 2. FTP (File Transfer Protocol)<br>
 Part 3. LDAP (Lightweight Directory Access Protocol)<br>
 Part 4. DNS (Using Dig)<br>
@@ -13,26 +13,39 @@ Part 6. Submission <br>
 
 This week, we've touched on some of the secure protocols that are used for secure communication. For this lab, we'll take a closer look at some of the protocols discussed in lecture through a practical lens. Please make sure you have completed all of the material in the lessons tab before attempting this lab.
 
-## Part 1 - UDP (User Datagram Protocol)
+## Part 1 - ARP
 
-The below language is simply pulled from www.immersivelabs.com for your convenience. Please, read the information below and complete the [UDP (User Datagram Protocol)](https://immersivelabs.online/labs/udp-user-datagram-protocol/) lab on immersivelabs.
+The below language is simply pulled from www.immersivelabs.com for your convenience. Please, read the information below and complete the [ARP](https://immersivelabs.online/labs/protocols-arp/) lab on immersivelabs.
 
-#### Quick Summary
+### Overview
 
-> **User Datagram Protocol (UDP)** is another transport layer protocol that determines how communication takes place over a network connection. It is used as an alternative to Transmission Control Protocol (TCP). In this lab we will introduce how UDP works, laying out the protocol's benefits and limitations.
+Defined in RFC 826, Address Resolution Protocol (ARP) is used to map the relationships between a link layer address and an internet layer address. Although ARP can be used across a wide range of network technologies, it is most frequently used to map MAC addresses to IP addresses.
 
-When communicating by **UDP** the client sends a request to the server; if the server receives the request, then a response is sent to the client. Each time a **datagram** (chunk of data) is sent, the sender has no way of checking if it has reached the intended destination.
+When a computer connects to a network, it doesn’t know what other devices are connected or how to direct traffic to the internet — via the router. ARP is a message-based protocol which involves sending a request and response between networked devices. By sending these messages, a computer can learn where other devices are on the network and communicate with them.
 
-UDP lacks many of the benefits associated with TCP. However, it does make up for this by being the faster of the two protocols. This is because there is no requirement to send acknowledgement packets. Due to its speed, UDP is often used for online gaming and video streaming where many packets are normally sent in quick succession; this also means there is an allowance for the loss of some packets.
+### Packet structure
+
+The packet structure for an ARP request and response are the same, with different values (or Opcodes) identifying the message type. The message header also contains information about the hardware type, protocol type and size of the addresses.
+
+Each packet contains space for the IP and MAC address of both the sender and recipient. As the recipient (or target) MAC address is not known when sending a request, this field is populated with zeros.
+
+### Request/response process
+
+When two computers try to communicate on the same Local Area Network (LAN), the first computer sends out an ARP request message. This contains an IP address and asks which device on the network has the corresponding MAC address. This message is broadcast to the entire network, but it is only acknowledged by the computer assigned the IP address within the request.
+
+The computer responding to the request replies with both their IP and MAC address. As the initial request contains the sender’s information, the response is sent directly to the sender without being broadcast over the entire network.
+
+### Caching
+
+To reduce the number of requests sent over a network, the information obtained following an ARP request is stored in a cache. This is periodically flushed and repopulated to ensure that old entries are deleted and to free up storage space. It is also possible to manually flush the cache, forcing the system to store the most up-to-date information.
+
+### ARP spoofing
+
+An ARP cache will automatically update each time a new packet is received, without any authentication or validation. As a result, the cache is open to abuse and can be modified by malicious users. This is also referred to as ARP cache poisoning.
+
+By associating their MAC address with the IP address of another device, a malicious user could mount a man-in-the-middle attack, intercepting the traffic intended for another user. This could also be used as a means of performing a Denial of Service (DoS) attack.
 
 :interrobang: Question 1. Submit a screenshot of your badge demonstrating the completion of this immersivelab module.
-
-#### Good resources on UDP
-
-[UDP – Wiki](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
-
-[UDP – Protocol Specification](https://tools.ietf.org/html/rfc768)
-
 
 
 ## Part 2 - FTP (File Transfer Protocol)
