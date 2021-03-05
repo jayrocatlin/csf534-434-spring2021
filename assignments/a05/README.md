@@ -1,8 +1,8 @@
-# Assignment 04: Week 04 Review
+# Assignment 05: Week 05 Review
 
 Before attempting this assignment, please make sure you have completed all of the material in this weeks lessons.
 
-Create a copy of this google document [lastname_A05]() (File > Make a Copy) to record all of your assignment answers in.
+Create a copy of this google document [lastname_A05](https://docs.google.com/document/d/1HuhmamzmlUNwlcFLFiMLVtfVJVdmd37PmvBdqiGtr0Q/edit?usp=sharing) (File > Make a Copy) to record all of your assignment answers in.
 
 Ensure your answer file has the following format:
 
@@ -75,4 +75,4 @@ Part 3: Submission <br>
 
 ## Part 5. Submission
 
-Upload a single `lastname_a4.pdf` containing all of your answers to the assignment questions to Sakai through the attachment uploads option.
+Upload a single `lastname_a5.pdf` containing all of your answers to the assignment questions to Sakai through the attachment uploads option.

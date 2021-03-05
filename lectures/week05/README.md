@@ -17,7 +17,7 @@ No of videos : 11 <br>
 Average length of video : 7 minutes, 30 seconds<br>
 Total length of playlist : 1 hour, 22 minutes, 40 seconds<br>
 
-**[Week 05 Lecture Review]()** - 31 minutes, 57 seconds
+**[Week 05 Lecture Review](https://uri.techsmithrelay.com/BVKA)** - 31 minutes, 1 seconds
 
 
 ## Lecture Slides
