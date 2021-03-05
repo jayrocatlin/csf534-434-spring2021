@@ -17,7 +17,7 @@ No of videos : 11 <br>
 Average length of video : 10 minutes, 1 second<br>
 Total length of playlist : 1 hour, 50 minutes, 19 seconds<br>
 
-**[Week 06 Lecture Review](https://uri.techsmithrelay.com/WnAr)** - 33 minutes, 11 seconds
+**[Week 06 Lecture Review](https://uri.techsmithrelay.com/dIo1)** - 33 minutes, 11 seconds
 
 
 ## Lecture Slides
