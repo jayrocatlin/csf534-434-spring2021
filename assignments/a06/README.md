@@ -31,7 +31,7 @@ Part 5: Submission <br>
 
 :interrobang: Question 2 - There are reports of a worm going through your company that communicates to other nodes on port TCP/1337. What tool would you use to find infected nodes on your network? <br>
 
-:interrobang: Question 3 - The tcpdump command-line tool is classified as which of the following? <br>
+:interrobang: Question 3 - The tcpdump command-line tool is classified as what type of command-line tool? <br>
 
 :interrobang: Question 4 - Why should you compare hashes of the files you download from the Internet to a library of known hash values? <br>
 
