@@ -6,9 +6,9 @@ Create a copy of this google document [lastname_lab09](https://docs.google.com/d
 The table of contents for this lab is found below.
 
 Part 1. Accounting and auditing log files <br>
-Part 2. Authentication and authorization flaws <br>
-Part 3. Credential management and risks <br>
-Part 4. Submission <br>
+<!-- Part 2. Authentication and authorization flaws <br> -->
+Part 2. Credential management and risks <br>
+Part 3. Submission <br>
 
 This week, we touch on a lot of important security concepts like (AAA) authentication, authorization, accounting, proper credentials and account management techniques and more! For this lab, we'll take a closer look at some of the concepts that we've discussed in lecture through a practical lens. Please make sure you have completed all of the material in the lessons tab before attempting this lab.
 
@@ -41,7 +41,7 @@ For more information on the Elastic Stack and an introduction on how to use it, 
 
 :interrobang: Question 1. Submit a screenshot of your badge demonstrating the completion of this immersive lab module.
 
-## Part 2 - Authentication and authorization flaws
+<!-- ## Part 2 - Authentication and authorization flaws
 
 The below language is simply pulled from www.immersivelabs.com for your convenience. Please, read the information below and complete the [Unrestricted File Upload](https://immersivelabs.online/labs/unrestricted-file-upload/category/offensive/series/authentication-and-authorisation-flaws) lab on immersive labs.
 
@@ -52,9 +52,9 @@ Once the file is successfully uploaded on the server, the attacker only needs to
 In this module you must upload an image that enables you to take control of the server using a PHP shell, and then use that content to access the contents of /etc/token. More information on unrestricted file uploads can be found on the [OWASP website](https://owasp.org/www-community/vulnerabilities/Unrestricted_File_Upload).
 
 
-:interrobang: Question 2. Submit a screenshot of your badge demonstrating the completion of this immersive lab module.
+:interrobang: Question 2. Submit a screenshot of your badge demonstrating the completion of this immersive lab module. -->
 
-## Part 3 - Credential management and risks
+## Part 2 - Credential management and risks
 
 The below language is simply pulled from www.immersivelabs.com for your convenience. Please, read the information below and complete the [Immersive Bank: Ep.1 – Open Source and Credentials](https://immersivelabs.online/labs/immersive-bank-episode-one-open-source-and-credentials/) AND [Immersive Bank: Ep.2 – Gaining Access](https://immersivelabs.online/labs/immersive-bank-episode-two-gaining-access/) modules on immersive labs.
 
@@ -72,7 +72,7 @@ Thanks to a data breach affecting a third party service the bank uses, you were 
 
 Starting with open source research into your target, you need to utilise different techniques to discover information from the bank's website (https://imlbank.info) and subsequent social media pages.
 
-:interrobang: Question 3. Submit a screenshot of your badge demonstrating the completion of this immersive lab module.
+:interrobang: Question 2. Submit a screenshot of your badge demonstrating the completion of this immersive lab module.
 
 ### Immersive Bank: Ep.2 – Gaining Access
 
@@ -84,8 +84,8 @@ Thanks to your open source research, you know you can gain access to the CEO's c
 
 Some interesting personal documents on the desktop pique your curiosity. It looks like Carlo mixes business with his personal life, leaving documents from his daughter's school easily accessible. Perhaps one of them can provide insight into the password protected files.
 
-:interrobang: Question 4. Submit a screenshot of your badge demonstrating the completion of this immersive lab module.
+:interrobang: Question 3. Submit a screenshot of your badge demonstrating the completion of this immersive lab module.
 
-## Part 4 - Submission
+## Part 3 - Submission
 
 Convert your answer document in to a **.PDF** and upload a single `lastname_lab9.pdf` answer document containing all of your answers to the assignment questions to Brightspace through the attachment uploads option.
