@@ -4,9 +4,8 @@
 Create a copy of this google document [lastname_lab09](https://docs.google.com/document/d/1xiAlbfG_8fXCWUxKg8Xqzn7hFUTO_Anp5xYGARpYInI/edit?usp=sharing) (File > Make a Copy) to record all of your assignment answers in.
 
 The table of contents for this lab is found below.
-
-Part 1. Accounting and auditing log files <br>
 <!-- Part 2. Authentication and authorization flaws <br> -->
+Part 1. Accounting and auditing log files <br>
 Part 2. Credential management and risks <br>
 Part 3. Submission <br>
 
