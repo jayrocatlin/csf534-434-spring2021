@@ -102,7 +102,7 @@ Part 4: Submission <br>
 
 :interrobang: Question 39 - What is the difference between account disablement and account deletion? Is one preferable over another? <br>
 
-:interrobang: Question 40 - How are account lockouts and SIEMs, NIDs, NIPs, or other network security tools? <br>
+:interrobang: Question 40 - How do account lockouts work with SIEMs, NIDs, NIPs to inhibit adversarial behavior like brute-force attacks? <br>
 
 ## Part 4. Submission
 
