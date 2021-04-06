@@ -43,7 +43,7 @@ Part 4: Submission <br>
 
 :interrobang: Question 13 -  When conducting a business impact analysis for an organization, what are potential elements that can be impacted if a security event occurs? <br>
 
-:interrobang: Question 14 - Staying within compliance with privacy laws is important. How figures can we calculate to determine how much privacy is required for the data that we hold and the assessment of your privacy standards? <br>
+:interrobang: Question 14 - Staying within compliance with privacy laws is important. What figures can we calculate to determine how much privacy is required for the data that we hold and the assessment of your privacy standards? <br>
 
 :interrobang: Question 15 -  Describe the two threats that we should consider with thinking about organization risk. <br>
 
