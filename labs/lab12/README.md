@@ -162,6 +162,9 @@ In this module, your task is to practice using symmetric and asymmetric encrypti
 
 ## Part 3 - Caesar Cipher
 
+The below language is simply pulled from www.immersivelabs.com for your convenience. Please, read the information below and complete the [Caesar Cipher
+](https://immersivelabs.online/labs/caesar-cipher/) lab on immersive labs.
+
 In cryptography, a **Caesar cipher** (also known as Caesar’s cipher, shift cipher, Caesar’s code or Caesar shift) is one of the oldest and most widely known encryption techniques. It is a simple substitution cipher based on a rotation of the alphabet in a specific way. Each letter in plaintext is replaced by another, located a fixed number of positions away. For example, with a left-shift of three, D would be replaced by A, E would become B and so on. So if the word **CAT** were to be encrypted with a rotation of one, the output would be **DBU**. 
 
 ### Decryption/Encryption
